@@ -1,0 +1,104 @@
+.banner {
+    text-align: center;
+    margin: 0px auto;
+    background-color: rgb(39, 37, 37);
+    padding: 30px;
+}
+
+.button {
+    margin-left: -2px;
+    border: none;
+    padding: 0.2px;
+    border-radius: 0 0 6px 0;
+}
+
+.banner-menu {
+    margin: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(218, 8, 8);
+    font-size: 20px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(44, 44, 44);
+}
+
+.search-1 {
+    border-radius: 6px 0 0 0 ;
+    box-shadow: none;
+}
+
+.cari {
+    font-weight: bold;
+}
+
+.list-squad {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: rgb(218, 8, 8)
+}
+
+.squad-1{
+    padding: 25px;
+    padding-bottom: 5px;
+}
+
+.judul-squad-1 {
+    padding-left: 25px;
+    color: rgb(43, 43, 43);
+}
+
+.sayclo {
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.box-sayclo {
+    background-color: white;
+    margin: 10px;
+    border: 1px solid;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 250px;
+    margin-top: 30px;
+    border-radius: 16px;
+    margin-left: 30px;
+}
+
+.kembali {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.formdaftar {
+    padding-left: 30px;
+    color: blue;
+    background-color: white;
+    width: 500px;
+    margin-top: 15px;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 16px;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding-right: 0;
+}
+
+.terkirim {
+    text-align: center;
+    padding: 300px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.whatsapp {
+    margin: 70px auto;
+    margin-left: 100px;
+}
